@@ -47,7 +47,7 @@ source_suffix = ['.rst', '.md']
 #source_suffix = '.md'
 
 # The master toctree document.
-master_doc = '_Sidebar'
+master_doc = 'index'
 
 # General information about the project.
 project = u'SpringWiki'
@@ -107,7 +107,7 @@ html_static_path = ['_static']
 # refs: http://alabaster.readthedocs.io/en/latest/installation.html#sidebars
 html_sidebars = {
     '**': [
-        'relations.html',  # needs 'show_related': True theme option to display
+        '_Sidebar.md',  # needs 'show_related': True theme option to display
         'searchbox.html',
     ]
 }
