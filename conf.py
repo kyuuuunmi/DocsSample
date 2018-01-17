@@ -47,7 +47,7 @@ source_suffix = ['.rst', '.md']
 #source_suffix = '.md'
 
 # The master toctree document.
-master_doc = 'index'
+master_doc = '_Sidebar'
 
 # General information about the project.
 project = u'SpringWiki'
