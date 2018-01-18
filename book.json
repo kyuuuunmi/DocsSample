@@ -1,0 +1,28 @@
+{
+  "title": "Spring Basic(Gitbook Sample)",
+  "description": "Gitbook sample입니다. ",
+  "language": "ko",
+  "direction": "ltr",
+  "author": "yuuunmi.ko",
+  "variables": {
+    "ClassifiedInfo": "classfiedInfo",
+    "DocVersion": "v0.1",
+    "Locale": "ko-KR",
+    "DocOwner": "yunmik",
+    "OrientedService": "Spring",
+    "TargetServiceForClientAuth": "All",
+    "LoginAPIofTargetService": "https://developers.naver.com/docs/login/overview/",
+    "AuthServerBaseURL": "AuthServerBaseURL",
+  },
+  "pdf": {
+    "fontSize": 11,
+    "margin": {
+      "top": 40,
+      "bottom": 40,
+      "left": 30,
+      "right": 30
+    },
+    "paperSize": "a3"
+  },
+  "plugins": ["-search"]
+}
