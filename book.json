@@ -12,7 +12,7 @@
     "OrientedService": "Spring",
     "TargetServiceForClientAuth": "All",
     "LoginAPIofTargetService": "https://developers.naver.com/docs/login/overview/",
-    "AuthServerBaseURL": "AuthServerBaseURL",
+    "AuthServerBaseURL": "AuthServerBaseURL"
   },
   "pdf": {
     "fontSize": 11,
