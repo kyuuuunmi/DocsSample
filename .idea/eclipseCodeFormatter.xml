@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="EclipseCodeFormatterProjectSettings">
+    <option name="projectSpecificProfile">
+      <ProjectSpecificProfile>
+        <option name="enableJSFormatting" value="true" />
+        <option name="formatOtherFileTypesWithIntelliJ" value="false" />
+        <option name="formatter" value="ECLIPSE" />
+        <option name="importOrderConfigFilePath" value="$USER_HOME$/work/vtf/project/v/doc/CodeStyle/nhn.importorder" />
+        <option name="importOrderFromFile" value="true" />
+        <option name="pathToConfigFileJS" value="$USER_HOME$/work/vtf/project/v/doc/CodeStyle/formatter_v_javascript.xml" />
+        <option name="pathToConfigFileJava" value="$USER_HOME$/work/vtf/project/v/doc/CodeStyle/formatter_v.xml" />
+        <option name="selectedJavaProfile" value="V Standard" />
+        <option name="selectedJavaScriptProfile" value="V Javasciprt Standard" />
+      </ProjectSpecificProfile>
+    </option>
+  </component>
+</project>

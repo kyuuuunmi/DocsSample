@@ -1,20 +1,15 @@
 # Summary
 
 
-* [ 스프링의 IoC ](docs/스프링의-IoC.md)   
-* [ 싱글톤 레지스트리와 오브젝트 스코프 ](docs/싱글톤-레지스트리와-오브젝트-스코프.md)  
-* [ 의존관계 주입(DI)](의존관계%20주입(DI).md)  
-* [ XML을 이용한 설정](XML을%20이용한%20설정.md)
+# 1. AOP
 
+* [ 트랜잭션 코드의 분리 ](Seperating of Transaction.md) 
+* [ 고립된 단위 테스트 ](Isolated Unit Test.md) 
+* [다이내믹 프록시와 팩토리 빈](Dynamic Proxy and Factory Bean.md) 
+* [ Spring의 프록시 팩토리 빈 ](Proxy Factory Bean of Spring.md)
+* [ Spring AOP ](SpringAOP.md)
 
-
-
- [AOP](트랜잭션%20코드의%20분리.md)
-* [ 트랜잭션 코드의 분리 ](트랜잭션%20코드의%20분리.md) 
-* [ 고립된 단위 테스트 ](고립된%20단위%20테스트.md) 
-* [다이내믹 프록시와 팩토리 빈](다이내믹%20프록시와%20팩토리%20빈.md) 
-* [ Spring의 프록시 팩토리 빈 ](Spring의%20프록시%20팩토리%20빈.md)
-* [ Spring AOP ](Spring%20AOP.md)
-* [ 트랜잭션 속성 ](트랜잭션%20속성.md)
-* [ 애노테이션 트랜잭션 속성과 포인트컷](애노테이션%20트랜잭션%20속성과%20포인트컷%20.md)
-* [ 트랜잭션 지원 테스트 ](애노테이션%20트랜잭션%20속성과%20포인트컷%20.md)
+# 2. AOP 2
+* [ 트랜잭션 속성 ](Transaction%20Properties.md)
+* [ 애노테이션 트랜잭션 속성과 포인트컷](Annotation Transaction properties and Pointcut.md)
+* [ 트랜잭션 지원 테스트 ](Transation Support Test.md)
