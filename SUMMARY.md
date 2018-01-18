@@ -9,7 +9,7 @@
 * [ Spring의 프록시 팩토리 빈 ](Proxy Factory Bean of Spring.md)
 * [ Spring AOP ](SpringAOP.md)
 
-# 2. AOP 2
-* [ 트랜잭션 속성 ](Transaction%20Properties.md)
-* [ 애노테이션 트랜잭션 속성과 포인트컷](Annotation Transaction properties and Pointcut.md)
-* [ 트랜잭션 지원 테스트 ](Transation Support Test.md)
+* [part 2](part2/README.md)
+* [ 트랜잭션 속성 ](part2/Transaction%20Properties.md)
+* [ 애노테이션 트랜잭션 속성과 포인트컷](part2/Annotation%20Transaction%20properties%20and%20Pointcut.md)
+* [ 트랜잭션 지원 테스트 ](part2/Transation%20Support%20Test.md)
