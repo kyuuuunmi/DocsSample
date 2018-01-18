@@ -16,7 +16,6 @@
 
 
 ## 팝업 처럼 접히나? 
-
   * [다이내믹 프록시와 팩토리 빈](Dynamic Proxy and Factory Bean.md) 
   * [ Spring의 프록시 팩토리 빈 ](Proxy Factory Bean of Spring.md)
   * [ Spring AOP ](SpringAOP.md)
