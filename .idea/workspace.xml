@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ef390c5e-244d-40b0-99de-4425f5f463d8" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/part2/README.md" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Annotation Transaction properties and Pointcut.md" afterPath="$PROJECT_DIR$/part2/Annotation Transaction properties and Pointcut.md" />
       <change beforePath="$PROJECT_DIR$/SUMMARY.md" afterPath="$PROJECT_DIR$/SUMMARY.md" />
-      <change beforePath="$PROJECT_DIR$/Transaction Properties.md" afterPath="$PROJECT_DIR$/part2/Transaction Properties.md" />
-      <change beforePath="$PROJECT_DIR$/Transation Support Test.md" afterPath="$PROJECT_DIR$/part2/Transation Support Test.md" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -63,12 +58,12 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="SUMMARY.md" pinned="false" current-in-tab="false">
+          <file leaf-file-name="SUMMARY.md" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/SUMMARY.md">
               <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
                 <state split_layout="SPLIT">
-                  <first_editor relative-caret-position="198">
-                    <caret line="11" column="23" lean-forward="false" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+                  <first_editor relative-caret-position="252">
+                    <caret line="14" column="56" lean-forward="false" selection-start-line="14" selection-start-column="56" selection-end-line="14" selection-end-column="56" />
                     <folding />
                   </first_editor>
                   <second_editor />
@@ -76,12 +71,12 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+          <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/part2/README.md">
               <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
                 <state split_layout="SPLIT">
-                  <first_editor relative-caret-position="162">
-                    <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+                  <first_editor relative-caret-position="72">
+                    <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
                     <folding />
                   </first_editor>
                   <second_editor />
@@ -152,8 +147,8 @@
         <option value="$PROJECT_DIR$/index.md" />
         <option value="$PROJECT_DIR$/readme.md" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/SUMMARY.md" />
         <option value="$PROJECT_DIR$/part2/README.md" />
+        <option value="$PROJECT_DIR$/SUMMARY.md" />
       </list>
     </option>
   </component>
@@ -332,12 +327,12 @@
       <updated>1516164487886</updated>
       <workItem from="1516164489231" duration="6701000" />
       <workItem from="1516171787230" duration="872000" />
-      <workItem from="1516253919148" duration="4427000" />
+      <workItem from="1516253919148" duration="4554000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12000000" />
+    <option name="totallyTimeSpent" value="12127000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="-4" width="1920" height="1084" extended-state="6" />
@@ -587,22 +582,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SUMMARY.md">
+    <entry file="file://$PROJECT_DIR$/part2/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="198">
-            <caret line="11" column="23" lean-forward="false" selection-start-line="11" selection-start-column="23" selection-end-line="11" selection-end-column="23" />
+          <first_editor relative-caret-position="72">
+            <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/part2/README.md">
+    <entry file="file://$PROJECT_DIR$/SUMMARY.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="162">
-            <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <first_editor relative-caret-position="252">
+            <caret line="14" column="56" lean-forward="false" selection-start-line="14" selection-start-column="56" selection-end-line="14" selection-end-column="56" />
             <folding />
           </first_editor>
           <second_editor />
